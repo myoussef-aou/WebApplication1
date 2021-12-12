@@ -20,7 +20,6 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            //123
             return View();
         }
 
