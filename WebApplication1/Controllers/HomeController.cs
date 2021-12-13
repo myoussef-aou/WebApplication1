@@ -21,7 +21,6 @@ namespace WebApplication1.Controllers
         public IActionResult Index()
         {
             //test
-            //test 2
             return View();
         }
 
