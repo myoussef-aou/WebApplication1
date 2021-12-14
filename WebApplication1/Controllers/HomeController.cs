@@ -15,6 +15,7 @@ namespace WebApplication1.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
+            //Test 1
             _logger = logger;
         }
 
