@@ -14,7 +14,6 @@ namespace WebApplication1
         public static void Main(string[] args)
         {
             //main
-            //this is another update
             CreateHostBuilder(args).Build().Run();
         }
 
